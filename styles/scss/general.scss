@@ -1,0 +1,11 @@
+@import './fonts';
+
+body {
+  font-family: pelak;
+}
+
+a {
+  &:hover {
+    text-decoration: none;
+  }
+}
